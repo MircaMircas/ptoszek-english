@@ -100,10 +100,10 @@ const FILE_DOWNLOADS = [
 ]
 
 const PHRASES = [
-  'hello my name is ptoszek, lol',
+  'hello my name is birb, lol',
   'birds are funny lalalalalalalallalala',
   'wgl co u cb bo u mn dbr',
-  'knuuurrr eksplozja',
+  'knuuurrr explosion',
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
   'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
